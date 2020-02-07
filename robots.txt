@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://laithehie.trashmoon.com/sitemap.xml
